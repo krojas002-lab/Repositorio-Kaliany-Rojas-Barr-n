@@ -1,0 +1,16 @@
+
+.container {
+  display: flex;
+  background-color: #D9CDEA;
+ width:1550px;
+}
+
+.container div {
+  background-color: D9CDEA;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+h1, p{
+  text-align:center;
+}
